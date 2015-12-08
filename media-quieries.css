@@ -1,4 +1,4 @@
-@media screen and (max-wigth: 1300px) {
+@media screen and (min-resolution: 160dpi) {
   #menu a {
     font-size: 1.3em;
   }
