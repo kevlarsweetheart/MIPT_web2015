@@ -1,0 +1,18 @@
+#menu a {
+  font-size: 1.3em;
+}
+
+#menu ul {
+    position: absolute;
+    top: -2px;
+    left: 18em;
+}
+
+footer ul {
+    position: absolute;
+    left: 22em;
+}
+
+footer img {
+    height: 15px;
+}
