@@ -16,12 +16,6 @@
       font-size: 1.5em;
 }
 
-#menu ul {
-    position: absolute;
-    top: -2px;
-    left: 34em;
-}
-
 #menu li {
     display: inline;
 }
@@ -37,11 +31,6 @@ body {
     background-color: #f5deb3;
 }
 
-footer ul {
-    position: absolute;
-    left: 40em;
-}
-
 footer li {
     display: inline-block;
 }
@@ -52,8 +41,4 @@ footer a {
     text-transform: uppercase;
     font-family: Times;
     text-decoration: none;
-}
-
-footer img {
-    height: 20px;
 }

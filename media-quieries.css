@@ -18,3 +18,24 @@
       height: 15px;
   }
 }
+
+@media screen and (min-width: 1920px) {
+  #menu a {
+    font-size: 1.5em;
+  }
+
+  #menu ul {
+      position: absolute;
+      top: -2px;
+      left: 34em;
+  }
+
+  footer ul {
+      position: absolute;
+      left: 40em;
+  }
+
+  footer img {
+      height: 20px;
+  }
+}
