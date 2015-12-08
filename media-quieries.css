@@ -1,4 +1,4 @@
-@media screen and (min-resolution: 160dpi) {
+@media screen and (min-resolution: 120dpi) {
   #menu a {
     font-size: 1.3em;
   }
@@ -6,7 +6,7 @@
   #menu ul {
       position: absolute;
       top: -2px;
-      left: 18em;
+      left: 20%;
   }
 
   footer ul {
