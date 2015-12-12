@@ -41,3 +41,45 @@ footer a {
     font-family: Times;
     text-decoration: none;
 }
+
+@media screen and (min-resolution: 120dpi) {
+  #menu a {
+    font-size: 1.3em;
+  }
+
+  #menu ul {
+      position: absolute;
+      top: -2px;
+      left: 20%;
+  }
+
+  footer ul {
+      position: absolute;
+      left: 22em;
+  }
+
+  footer img {
+      height: 15px;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  #menu a {
+    font-size: 1.5em;
+  }
+
+  #menu ul {
+      position: absolute;
+      top: -2px;
+      left: 34em;
+  }
+
+  footer ul {
+      position: absolute;
+      left: 40em;
+  }
+
+  footer img {
+      height: 20px;
+  }
+}
